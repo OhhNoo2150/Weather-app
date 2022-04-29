@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### future improvements
+I want to add a switch for metric/imperial units
+I want to add more details to the app, wind etc.
+I want to add animated backgrounds for weather events. 
+I will update the images to reflect temperature extremes # Weather-app
